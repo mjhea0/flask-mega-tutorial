@@ -1,4 +1,4 @@
 flask-mega-tutorial
 ===================
 
-Code from Miguel Grinberg's Flask tutorials
+I learned something. Hurray!
